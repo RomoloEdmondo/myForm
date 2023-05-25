@@ -1,0 +1,1034 @@
+{
+    "display": "form",
+    "settings": {
+        "pdf": {
+            "id": "1ec0f8ee-6685-5d98-a847-26f67b67d6f0",
+            "src": "https://files.form.io/pdf/5692b91fd1028f01000407e3/file/1ec0f8ee-6685-5d98-a847-26f67b67d6f0"
+        },
+        "recaptcha": {
+            "isEnabled": false
+        }
+    },
+    "components": [
+        {
+            "html": "<h2 style=\"text-align:center;\"><span class=\"text-big\">Karriere bei PublicPlan</span></h2><h3 style=\"text-align:center;\">Schicken Sie uns Ihre Bewerbung, um Teil unseres Teams zu werden</h3>",
+            "label": "Content",
+            "refreshOnChange": false,
+            "key": "content4",
+            "type": "content",
+            "input": false,
+            "tableView": false
+        },
+        {
+            "label": "Persönliche Daten",
+            "columns": [
+                {
+                    "components": [
+                        {
+                            "html": "<figure class=\"image image-style-align-left image_resized\" style=\"width:9.11%;\"><img src=\"data:image/png;base64,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\"></figure><p>&nbsp;</p><p>&nbsp;</p><h4><br><span class=\"text-big\">Persönliche Daten</span></h4>",
+                            "label": "Persönliche Daten",
+                            "refreshOnChange": false,
+                            "key": "personlicheDaten1",
+                            "type": "content",
+                            "input": false,
+                            "tableView": false
+                        },
+                        {
+                            "label": "Name",
+                            "columns": [
+                                {
+                                    "components": [],
+                                    "width": 6,
+                                    "offset": 0,
+                                    "push": 0,
+                                    "pull": 0,
+                                    "size": "md",
+                                    "currentWidth": 6
+                                },
+                                {
+                                    "components": [],
+                                    "width": 6,
+                                    "offset": 0,
+                                    "push": 0,
+                                    "pull": 0,
+                                    "size": "md",
+                                    "currentWidth": 6
+                                }
+                            ],
+                            "key": "name",
+                            "type": "columns",
+                            "input": false,
+                            "tableView": false
+                        },
+                        {
+                            "label": "Anrede",
+                            "optionsLabelPosition": "right",
+                            "inline": false,
+                            "tableView": false,
+                            "values": [
+                                {
+                                    "label": "Herr",
+                                    "value": "herr",
+                                    "shortcut": ""
+                                },
+                                {
+                                    "label": "Frau",
+                                    "value": "frau",
+                                    "shortcut": ""
+                                }
+                            ],
+                            "validate": {
+                                "required": true
+                            },
+                            "key": "anrede1",
+                            "type": "radio",
+                            "input": true
+                        }
+                    ],
+                    "width": 6,
+                    "offset": 0,
+                    "push": 0,
+                    "pull": 0,
+                    "size": "md",
+                    "currentWidth": 6
+                },
+                {
+                    "components": [],
+                    "width": 6,
+                    "offset": 0,
+                    "push": 0,
+                    "pull": 0,
+                    "size": "md",
+                    "currentWidth": 6
+                }
+            ],
+            "key": "personlicheDaten",
+            "type": "columns",
+            "input": false,
+            "tableView": false
+        },
+        {
+            "label": "Deine Persönliche Daten",
+            "columns": [
+                {
+                    "components": [
+                        {
+                            "label": "Name",
+                            "tooltip": "Geben Sie Ihren Nachnamen ein",
+                            "applyMaskOn": "change",
+                            "tableView": true,
+                            "validate": {
+                                "required": true,
+                                "minLength": 2,
+                                "maxLength": 40
+                            },
+                            "key": "name1",
+                            "type": "textfield",
+                            "input": true
+                        },
+                        {
+                            "label": "Geburstdatum",
+                            "format": "dd.MM.yyyy",
+                            "placeholder": "your Birthday",
+                            "tableView": false,
+                            "datePicker": {
+                                "disableWeekends": false,
+                                "disableWeekdays": false,
+                                "minDate": "1900-05-31T12:00:00+01:00",
+                                "maxDate": "2023-05-01T12:00:00+02:00"
+                            },
+                            "enableTime": false,
+                            "timePicker": {
+                                "showMeridian": false
+                            },
+                            "defaultDate": "moment().subtract(20, 'years');",
+                            "validate": {
+                                "required": true
+                            },
+                            "enableMinDateInput": false,
+                            "enableMaxDateInput": false,
+                            "errorLabel": "Please insert valid Date",
+                            "key": "geburstdatum",
+                            "overlay": {
+                                "width": "20px;"
+                            },
+                            "type": "datetime",
+                            "input": true,
+                            "widget": {
+                                "type": "calendar",
+                                "displayInTimezone": "viewer",
+                                "locale": "en",
+                                "useLocaleSettings": false,
+                                "allowInput": true,
+                                "mode": "single",
+                                "enableTime": false,
+                                "noCalendar": false,
+                                "format": "dd.MM.yyyy",
+                                "hourIncrement": 1,
+                                "minuteIncrement": 1,
+                                "time_24hr": true,
+                                "minDate": "1900-05-31T12:00:00+01:00",
+                                "disableWeekends": false,
+                                "disableWeekdays": false,
+                                "maxDate": "2023-05-01T12:00:00+02:00"
+                            }
+                        }
+                    ],
+                    "offset": 0,
+                    "push": 0,
+                    "pull": 0,
+                    "size": "sm",
+                    "currentWidth": 5,
+                    "width": 5
+                },
+                {
+                    "components": [
+                        {
+                            "label": "Vorname",
+                            "tooltip": "Geben Sie Ihren Namen ein",
+                            "applyMaskOn": "change",
+                            "tableView": true,
+                            "validate": {
+                                "required": true,
+                                "minLength": 2,
+                                "maxLength": 40
+                            },
+                            "key": "vorname",
+                            "type": "textfield",
+                            "input": true
+                        },
+                        {
+                            "label": "Geburtsort",
+                            "placeholder": "your birth city",
+                            "tooltip": "geben Sie Ihren Geburtsort ein",
+                            "applyMaskOn": "change",
+                            "tableView": true,
+                            "validate": {
+                                "required": true,
+                                "minLength": 2,
+                                "maxLength": 40
+                            },
+                            "key": "vorname1",
+                            "type": "textfield",
+                            "input": true
+                        }
+                    ],
+                    "offset": 0,
+                    "push": 0,
+                    "pull": 0,
+                    "size": "md",
+                    "currentWidth": 5,
+                    "width": 5
+                },
+                {
+                    "components": [
+                        {
+                            "html": "<h3>&nbsp;</h3><h3>Addresse</h3>",
+                            "label": "Content",
+                            "refreshOnChange": false,
+                            "key": "content",
+                            "type": "content",
+                            "input": false,
+                            "tableView": false
+                        },
+                        {
+                            "label": "Columns",
+                            "columns": [
+                                {
+                                    "components": [
+                                        {
+                                            "label": "Columns",
+                                            "columns": [
+                                                {
+                                                    "components": [
+                                                        {
+                                                            "label": "Straße:",
+                                                            "tableView": false,
+                                                            "provider": "nominatim",
+                                                            "key": "strasse",
+                                                            "type": "address",
+                                                            "providerOptions": {
+                                                                "params": {}
+                                                            },
+                                                            "input": true,
+                                                            "components": [
+                                                                {
+                                                                    "label": "Address 1",
+                                                                    "tableView": false,
+                                                                    "key": "address1",
+                                                                    "type": "textfield",
+                                                                    "input": true,
+                                                                    "customConditional": "show = _.get(instance, 'parent.manualMode', false);"
+                                                                },
+                                                                {
+                                                                    "label": "Address 2",
+                                                                    "tableView": false,
+                                                                    "key": "address2",
+                                                                    "type": "textfield",
+                                                                    "input": true,
+                                                                    "customConditional": "show = _.get(instance, 'parent.manualMode', false);"
+                                                                },
+                                                                {
+                                                                    "label": "City",
+                                                                    "tableView": false,
+                                                                    "key": "city",
+                                                                    "type": "textfield",
+                                                                    "input": true,
+                                                                    "customConditional": "show = _.get(instance, 'parent.manualMode', false);"
+                                                                },
+                                                                {
+                                                                    "label": "State",
+                                                                    "tableView": false,
+                                                                    "key": "state",
+                                                                    "type": "textfield",
+                                                                    "input": true,
+                                                                    "customConditional": "show = _.get(instance, 'parent.manualMode', false);"
+                                                                },
+                                                                {
+                                                                    "label": "Country",
+                                                                    "tableView": false,
+                                                                    "key": "country",
+                                                                    "type": "textfield",
+                                                                    "input": true,
+                                                                    "customConditional": "show = _.get(instance, 'parent.manualMode', false);"
+                                                                },
+                                                                {
+                                                                    "label": "Zip Code",
+                                                                    "tableView": false,
+                                                                    "key": "zip",
+                                                                    "type": "textfield",
+                                                                    "input": true,
+                                                                    "customConditional": "show = _.get(instance, 'parent.manualMode', false);"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "width": 6,
+                                                    "offset": 0,
+                                                    "push": 0,
+                                                    "pull": 0,
+                                                    "size": "md",
+                                                    "currentWidth": 6
+                                                },
+                                                {
+                                                    "components": [
+                                                        {
+                                                            "label": "Haus Nr.:",
+                                                            "placeholder": "0. 999",
+                                                            "applyMaskOn": "change",
+                                                            "mask": false,
+                                                            "tableView": false,
+                                                            "delimiter": false,
+                                                            "requireDecimal": false,
+                                                            "inputFormat": "plain",
+                                                            "truncateMultipleSpaces": false,
+                                                            "key": "hausNr",
+                                                            "type": "number",
+                                                            "input": true,
+                                                            "decimalLimit": 0
+                                                        }
+                                                    ],
+                                                    "width": 6,
+                                                    "offset": 0,
+                                                    "push": 0,
+                                                    "pull": 0,
+                                                    "size": "md",
+                                                    "currentWidth": 6
+                                                }
+                                            ],
+                                            "key": "columns3",
+                                            "type": "columns",
+                                            "input": false,
+                                            "tableView": false
+                                        }
+                                    ],
+                                    "width": 6,
+                                    "offset": 0,
+                                    "push": 0,
+                                    "pull": 0,
+                                    "size": "md",
+                                    "currentWidth": 6
+                                },
+                                {
+                                    "components": [
+                                        {
+                                            "label": "Columns",
+                                            "columns": [
+                                                {
+                                                    "components": [
+                                                        {
+                                                            "label": "PLZ:",
+                                                            "placeholder": "z.B. 67065",
+                                                            "applyMaskOn": "change",
+                                                            "mask": false,
+                                                            "tableView": false,
+                                                            "delimiter": false,
+                                                            "requireDecimal": false,
+                                                            "inputFormat": "plain",
+                                                            "truncateMultipleSpaces": false,
+                                                            "validate": {
+                                                                "min": 0,
+                                                                "max": 99999
+                                                            },
+                                                            "key": "plz",
+                                                            "type": "number",
+                                                            "input": true
+                                                        }
+                                                    ],
+                                                    "width": 6,
+                                                    "offset": 0,
+                                                    "push": 0,
+                                                    "pull": 0,
+                                                    "size": "md",
+                                                    "currentWidth": 6
+                                                },
+                                                {
+                                                    "components": [
+                                                        {
+                                                            "label": "Wohnort:",
+                                                            "placeholder": "stadt",
+                                                            "tableView": false,
+                                                            "provider": "nominatim",
+                                                            "key": "wohnort",
+                                                            "type": "address",
+                                                            "providerOptions": {
+                                                                "params": {
+                                                                    "autocompleteOptions": {}
+                                                                }
+                                                            },
+                                                            "input": true,
+                                                            "components": [
+                                                                {
+                                                                    "label": "Address 1",
+                                                                    "tableView": false,
+                                                                    "key": "address1",
+                                                                    "type": "textfield",
+                                                                    "input": true,
+                                                                    "customConditional": "show = _.get(instance, 'parent.manualMode', false);"
+                                                                },
+                                                                {
+                                                                    "label": "Address 2",
+                                                                    "tableView": false,
+                                                                    "key": "address2",
+                                                                    "type": "textfield",
+                                                                    "input": true,
+                                                                    "customConditional": "show = _.get(instance, 'parent.manualMode', false);"
+                                                                },
+                                                                {
+                                                                    "label": "City",
+                                                                    "tableView": false,
+                                                                    "key": "city",
+                                                                    "type": "textfield",
+                                                                    "input": true,
+                                                                    "customConditional": "show = _.get(instance, 'parent.manualMode', false);"
+                                                                },
+                                                                {
+                                                                    "label": "State",
+                                                                    "tableView": false,
+                                                                    "key": "state",
+                                                                    "type": "textfield",
+                                                                    "input": true,
+                                                                    "customConditional": "show = _.get(instance, 'parent.manualMode', false);"
+                                                                },
+                                                                {
+                                                                    "label": "Country",
+                                                                    "tableView": false,
+                                                                    "key": "country",
+                                                                    "type": "textfield",
+                                                                    "input": true,
+                                                                    "customConditional": "show = _.get(instance, 'parent.manualMode', false);"
+                                                                },
+                                                                {
+                                                                    "label": "Zip Code",
+                                                                    "tableView": false,
+                                                                    "key": "zip",
+                                                                    "type": "textfield",
+                                                                    "input": true,
+                                                                    "customConditional": "show = _.get(instance, 'parent.manualMode', false);"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "width": 6,
+                                                    "offset": 0,
+                                                    "push": 0,
+                                                    "pull": 0,
+                                                    "size": "md",
+                                                    "currentWidth": 6
+                                                }
+                                            ],
+                                            "key": "columns4",
+                                            "type": "columns",
+                                            "input": false,
+                                            "tableView": false
+                                        }
+                                    ],
+                                    "width": 6,
+                                    "offset": 0,
+                                    "push": 0,
+                                    "pull": 0,
+                                    "size": "md",
+                                    "currentWidth": 6
+                                }
+                            ],
+                            "key": "columns1",
+                            "type": "columns",
+                            "input": false,
+                            "tableView": false
+                        }
+                    ],
+                    "size": "xs",
+                    "offset": 0,
+                    "push": 0,
+                    "pull": 0,
+                    "currentWidth": 3,
+                    "width": 3
+                },
+                {
+                    "components": [],
+                    "size": "md",
+                    "offset": 0,
+                    "push": 0,
+                    "pull": 0,
+                    "currentWidth": 4,
+                    "width": 4
+                }
+            ],
+            "key": "columns8",
+            "type": "columns",
+            "input": false,
+            "tableView": false
+        },
+        {
+            "html": "<h2>&nbsp;</h2><h3>Deine kontaktdaten</h3>",
+            "label": "Content",
+            "refreshOnChange": false,
+            "key": "content2",
+            "type": "content",
+            "input": false,
+            "tableView": false
+        },
+        {
+            "label": "Columns",
+            "columns": [
+                {
+                    "components": [
+                        {
+                            "label": "Telefon:",
+                            "prefix": "+49",
+                            "inputMask": "",
+                            "displayMask": "999/99999999",
+                            "applyMaskOn": "change",
+                            "tableView": true,
+                            "protected": true,
+                            "key": "telefon",
+                            "type": "phoneNumber",
+                            "input": true
+                        }
+                    ],
+                    "width": 4,
+                    "offset": 0,
+                    "push": 0,
+                    "pull": 0,
+                    "size": "md",
+                    "currentWidth": 4
+                },
+                {
+                    "components": [
+                        {
+                            "label": "E-Mail:",
+                            "placeholder": "example@example.ex",
+                            "applyMaskOn": "change",
+                            "tableView": true,
+                            "case": "lowercase",
+                            "validate": {
+                                "required": true,
+                                "pattern": "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$",
+                                "customMessage": "Not Valid Email"
+                            },
+                            "unique": true,
+                            "errorLabel": "Bitte geben Sie eine gültige Email-Adresse ein",
+                            "key": "eMail",
+                            "type": "email",
+                            "input": true
+                        }
+                    ],
+                    "width": 6,
+                    "offset": 0,
+                    "push": 0,
+                    "pull": 0,
+                    "size": "md",
+                    "currentWidth": 6
+                }
+            ],
+            "autoAdjust": true,
+            "key": "columns5",
+            "type": "columns",
+            "input": false,
+            "tableView": false
+        },
+        {
+            "html": "<h2 style=\"margin-left:0px;\">&nbsp;</h2><h2 style=\"margin-left:0px;\">&nbsp;</h2><h2 style=\"margin-left:0px;\"><span class=\"text-small\">Schulische/Akademische Laufbahn</span></h2>",
+            "label": "Content",
+            "refreshOnChange": false,
+            "key": "content1",
+            "type": "content",
+            "input": false,
+            "tableView": false
+        },
+        {
+            "label": "Columns",
+            "columns": [
+                {
+                    "components": [
+                        {
+                            "label": "Abschluss",
+                            "widget": "choicesjs",
+                            "placeholder": "Bitte Auswählen ",
+                            "tableView": true,
+                            "data": {
+                                "values": [
+                                    {
+                                        "label": "Diplom",
+                                        "value": "diplom"
+                                    },
+                                    {
+                                        "label": "Magister",
+                                        "value": "magister"
+                                    },
+                                    {
+                                        "label": "Master",
+                                        "value": "master"
+                                    },
+                                    {
+                                        "label": "Bachelor",
+                                        "value": "bachelor"
+                                    },
+                                    {
+                                        "label": "Anderer Abschluss",
+                                        "value": "andererAbschluss"
+                                    },
+                                    {
+                                        "label": "Kein Abschluss",
+                                        "value": "keinAbschluss"
+                                    }
+                                ]
+                            },
+                            "searchEnabled": false,
+                            "validate": {
+                                "required": true
+                            },
+                            "key": "Abschluss",
+                            "type": "select",
+                            "input": true
+                        }
+                    ],
+                    "size": "md",
+                    "currentWidth": 4,
+                    "width": 4,
+                    "offset": 0,
+                    "push": 0,
+                    "pull": 0
+                },
+                {
+                    "components": [
+                        {
+                            "label": "Hochschule:",
+                            "placeholder": "name",
+                            "applyMaskOn": "change",
+                            "tableView": true,
+                            "key": "hochschule",
+                            "conditional": {
+                                "show": false,
+                                "when": "Abschluss",
+                                "eq": "keinAbschluss"
+                            },
+                            "type": "textfield",
+                            "input": true
+                        }
+                    ],
+                    "offset": 0,
+                    "push": 0,
+                    "pull": 0,
+                    "size": "md",
+                    "currentWidth": 4,
+                    "width": 4
+                },
+                {
+                    "components": [
+                        {
+                            "label": "Fachrichtung:",
+                            "placeholder": "z. B. wirtschaft.... ",
+                            "applyMaskOn": "change",
+                            "tableView": true,
+                            "validate": {
+                                "minLength": 2,
+                                "maxLength": 40
+                            },
+                            "key": "fachrichtung",
+                            "conditional": {
+                                "show": false,
+                                "when": "Abschluss",
+                                "eq": "keinAbschluss"
+                            },
+                            "type": "textfield",
+                            "input": true
+                        }
+                    ],
+                    "size": "md",
+                    "offset": 0,
+                    "push": 0,
+                    "pull": 0,
+                    "currentWidth": 4,
+                    "width": 4
+                },
+                {
+                    "components": [
+                        {
+                            "label": "Abschlussnote",
+                            "description": "(voraussichtlich)",
+                            "tooltip": "1  (beste) - 9  (schlechteste)",
+                            "displayMask": "9.9",
+                            "applyMaskOn": "change",
+                            "mask": false,
+                            "tableView": false,
+                            "delimiter": false,
+                            "requireDecimal": false,
+                            "inputFormat": "plain",
+                            "truncateMultipleSpaces": false,
+                            "validate": {
+                                "min": 1,
+                                "max": 9
+                            },
+                            "key": "abschlussnote",
+                            "conditional": {
+                                "show": false,
+                                "when": "Abschluss",
+                                "eq": "keinAbschluss"
+                            },
+                            "type": "number",
+                            "decimalLimit": 1,
+                            "input": true
+                        }
+                    ],
+                    "size": "md",
+                    "offset": 0,
+                    "push": 0,
+                    "pull": 0,
+                    "currentWidth": 2,
+                    "width": 2
+                }
+            ],
+            "autoAdjust": true,
+            "key": "columns6",
+            "type": "columns",
+            "input": false,
+            "tableView": false
+        },
+        {
+            "label": "Verfügen Sie über besondere Qualifikationen und/oder Zertifikate?",
+            "optionsLabelPosition": "right",
+            "inline": false,
+            "tableView": false,
+            "values": [
+                {
+                    "label": "Ja",
+                    "value": "ja",
+                    "shortcut": ""
+                },
+                {
+                    "label": "Nein",
+                    "value": "nein",
+                    "shortcut": ""
+                }
+            ],
+            "validate": {
+                "required": true
+            },
+            "key": "verfugenSieUberBesondereQualifikationenUndOderZertifikate",
+            "type": "radio",
+            "input": true
+        },
+        {
+            "label": "Welche?",
+            "description": "Sie können Ihr Zertifikat oder Ihre Qualifikation unten hochladen",
+            "applyMaskOn": "change",
+            "tableView": true,
+            "validate": {
+                "maxLength": 400
+            },
+            "key": "welche",
+            "conditional": {
+                "show": true,
+                "when": "verfugenSieUberBesondereQualifikationenUndOderZertifikate",
+                "eq": "ja"
+            },
+            "type": "textfield",
+            "input": true
+        },
+        {
+            "label": "Columns",
+            "columns": [
+                {
+                    "components": [
+                        {
+                            "label": "Dein frühest mögliches Eintrittsdatum:",
+                            "format": "dd.MM.yyyy",
+                            "tableView": false,
+                            "datePicker": {
+                                "disableWeekends": false,
+                                "disableWeekdays": false
+                            },
+                            "enableTime": false,
+                            "timePicker": {
+                                "showMeridian": false
+                            },
+                            "defaultDate": "moment().add(7, 'days');",
+                            "enableMinDateInput": false,
+                            "enableMaxDateInput": false,
+                            "key": "deinFruhestMoglichesEintrittsdatum",
+                            "type": "datetime",
+                            "input": true,
+                            "widget": {
+                                "type": "calendar",
+                                "displayInTimezone": "viewer",
+                                "locale": "en",
+                                "useLocaleSettings": false,
+                                "allowInput": true,
+                                "mode": "single",
+                                "enableTime": false,
+                                "noCalendar": false,
+                                "format": "dd.MM.yyyy",
+                                "hourIncrement": 1,
+                                "minuteIncrement": 1,
+                                "time_24hr": true,
+                                "minDate": null,
+                                "disableWeekends": false,
+                                "disableWeekdays": false,
+                                "maxDate": null
+                            }
+                        }
+                    ],
+                    "offset": 0,
+                    "push": 0,
+                    "pull": 0,
+                    "size": "md",
+                    "currentWidth": 5,
+                    "width": 5
+                },
+                {
+                    "components": [
+                        {
+                            "label": "Gehaltsvorstellung:",
+                            "description": "Jahresgehalt (Brutto)",
+                            "prefix": "€",
+                            "suffix": "p.a",
+                            "applyMaskOn": "change",
+                            "mask": false,
+                            "spellcheck": true,
+                            "tableView": false,
+                            "currency": "EUR",
+                            "inputFormat": "plain",
+                            "truncateMultipleSpaces": false,
+                            "key": "gehaltsvorstellung",
+                            "type": "currency",
+                            "input": true,
+                            "delimiter": true
+                        }
+                    ],
+                    "offset": 0,
+                    "push": 0,
+                    "pull": 0,
+                    "size": "md",
+                    "currentWidth": 4,
+                    "width": 4
+                }
+            ],
+            "key": "columns2",
+            "type": "columns",
+            "input": false,
+            "tableView": false
+        },
+        {
+            "label": "Hobbies",
+            "columns": [
+                {
+                    "components": [
+                        {
+                            "label": "Hobbies",
+                            "placeholder": "z.B. Badybuilding, Schwimmen, Familienzeit....",
+                            "description": "erzähl uns, was du so gerne machst!",
+                            "applyMaskOn": "change",
+                            "tableView": true,
+                            "validate": {
+                                "maxLength": 100
+                            },
+                            "key": "hobbies",
+                            "type": "textfield",
+                            "input": true
+                        }
+                    ],
+                    "offset": 0,
+                    "push": 0,
+                    "pull": 0,
+                    "size": "md",
+                    "currentWidth": 12,
+                    "width": 12
+                },
+                {
+                    "components": [],
+                    "width": 6,
+                    "offset": 0,
+                    "push": 0,
+                    "pull": 0,
+                    "size": "md",
+                    "currentWidth": 6
+                }
+            ],
+            "key": "columns",
+            "type": "columns",
+            "input": false,
+            "tableView": false
+        },
+        {
+            "label": "Gibt es etwas Besonderes, das Sie uns mitteilen möchten?",
+            "placeholder": "wir freuen uns zu erfahren, was uns mitteilen möchten......",
+            "applyMaskOn": "change",
+            "autoExpand": false,
+            "tableView": true,
+            "validate": {
+                "maxLength": 800
+            },
+            "key": "gibtEsEtwasBesonderesDasSieUnsMitteilenMochten",
+            "type": "textarea",
+            "rows": 5,
+            "input": true
+        },
+        {
+            "html": "<h2 style=\"margin-left:0px;\">&nbsp;</h2><h2 style=\"margin-left:0px;\">&nbsp;</h2><h2 style=\"margin-left:0px;\">Deine Dokumente</h2>",
+            "label": "Content",
+            "refreshOnChange": false,
+            "key": "content3",
+            "type": "content",
+            "input": false,
+            "tableView": false
+        },
+        {
+            "label": "Columns",
+            "columns": [
+                {
+                    "components": [
+                        {
+                            "label": "Lebenslauf",
+                            "description": "Zulässige Dateiformate: DOCX, PDF, Bild und Text,\nmax. 10 MB pro Datei.",
+                            "tableView": false,
+                            "storage": "url",
+                            "image": true,
+                            "webcam": false,
+                            "fileTypes": [
+                                {
+                                    "label": "",
+                                    "value": ""
+                                }
+                            ],
+                            "fileMinSize": "10KB",
+                            "fileMaxSize": "10MB",
+                            "validate": {
+                                "required": true
+                            },
+                            "key": "lebenslauf",
+                            "conditional": {
+                                "show": true
+                            },
+                            "type": "file",
+                            "imageSize": "",
+                            "input": true
+                        }
+                    ],
+                    "width": 6,
+                    "offset": 0,
+                    "push": 0,
+                    "pull": 0,
+                    "size": "md",
+                    "currentWidth": 6
+                },
+                {
+                    "components": [
+                        {
+                            "label": "Zeugnisse",
+                            "description": "Zulässige Dateiformate: DOCX, PDF, Bild und Text,\nmax. 10 MB pro Datei.",
+                            "tableView": false,
+                            "storage": "url",
+                            "image": true,
+                            "webcam": false,
+                            "fileTypes": [
+                                {
+                                    "label": "",
+                                    "value": ""
+                                }
+                            ],
+                            "fileMinSize": "10KB",
+                            "fileMaxSize": "10MB",
+                            "multiple": true,
+                            "key": "lebenslauf1",
+                            "conditional": {
+                                "show": true
+                            },
+                            "type": "file",
+                            "imageSize": "",
+                            "input": true
+                        },
+                        {
+                            "label": "Qualifikationen und/oder Zertifikate",
+                            "description": "Zulässige Dateiformate: DOCX, PDF, Bild und Text,\nmax. 10 MB pro Datei.",
+                            "tableView": false,
+                            "storage": "url",
+                            "image": true,
+                            "webcam": false,
+                            "fileTypes": [
+                                {
+                                    "label": "",
+                                    "value": ""
+                                }
+                            ],
+                            "fileMinSize": "10KB",
+                            "fileMaxSize": "10MB",
+                            "multiple": true,
+                            "key": "lebenslauf2",
+                            "conditional": {
+                                "show": true,
+                                "when": "verfugenSieUberBesondereQualifikationenUndOderZertifikate",
+                                "eq": "ja"
+                            },
+                            "type": "file",
+                            "imageSize": "",
+                            "input": true
+                        }
+                    ],
+                    "width": 6,
+                    "offset": 0,
+                    "push": 0,
+                    "pull": 0,
+                    "size": "md",
+                    "currentWidth": 6
+                }
+            ],
+            "autoAdjust": true,
+            "key": "columns7",
+            "type": "columns",
+            "input": false,
+            "tableView": false
+        },
+        {
+            "label": "Bewerbung absenden",
+            "showValidations": false,
+            "size": "lg",
+            "disableOnInvalid": true,
+            "tableView": false,
+            "key": "submit",
+            "type": "button",
+            "saveOnEnter": false,
+            "input": true
+        }
+    ]
+}
