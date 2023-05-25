@@ -1,6 +1,5 @@
 {
-"formId": "form_romolo_minacori",
-  "title": "myFirstForm",
+
     "display": "form",
     "settings": {
         "pdf": {
@@ -11,6 +10,8 @@
             "isEnabled": false
         }
     },
+    "formId": "form_romolo_minacori",
+    "title": "myFirstForm",
     "components": [
         {
             "html": "<h2 style=\"text-align:center;\"><span class=\"text-big\">Karriere bei PublicPlan</span></h2><h3 style=\"text-align:center;\">Schicken Sie uns Ihre Bewerbung, um Teil unseres Teams zu werden</h3>",
