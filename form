@@ -1,4 +1,6 @@
 {
+"formId": "form_romolo_minacori",
+  "title": "myFirstForm",
     "display": "form",
     "settings": {
         "pdf": {
